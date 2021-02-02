@@ -1,2 +1,5 @@
-# Senha Source - Engenharia de requisitos. 
-App para gerar senhas e validar integridade das senhas geradas
+# Senha Source - By Coco Network. 
+
+## Projeto da disciplina de engenharia de requisitos.
+
+### Integrantes: Arthur Miranda, Ítalo Poliesti, Lena Diene, Renato Vanderlei, Samuel Paes
