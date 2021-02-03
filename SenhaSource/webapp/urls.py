@@ -5,5 +5,6 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.index, name='index')
+    path('', views.index, name='index'),
+    path('passwd-generator', views.passwd_gen, name='Generator')
 ]
